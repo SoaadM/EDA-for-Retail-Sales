@@ -9,6 +9,7 @@ most customer in which city
 Technologies:
 - Python
 - Jupyter notebook.
+
 Libraries: 
 - Seaborn 
 - Matplotlib
