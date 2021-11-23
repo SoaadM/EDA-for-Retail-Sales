@@ -20,4 +20,18 @@ The data was filtered based on the best saller in which catogry , then the max n
 - Python and Jupyter Notebook.
 - Numpy and Pandas for data manipulation Matplotlib and Seaborn for plotting visuialization.
 # Communication:
-- The best salling catogry our customer like
+- The best salling catogry our customer like:
+
+![image](https://user-images.githubusercontent.com/63080488/142981719-d88d1371-0abc-4ade-8bb8-f56b501c1d5b.png)
+
+- The best product Profitable:
+
+![image](https://user-images.githubusercontent.com/63080488/142981840-87eb9d8f-e0a4-4bb2-8525-936b22a68c9c.png)
+
+- The improvement of profit through the years:
+
+![image](https://user-images.githubusercontent.com/63080488/142982009-124ff3e1-ca80-42b2-82ee-65f057ba6e97.png)
+
+- The Most our customer in which State:
+
+![image](https://user-images.githubusercontent.com/63080488/142982128-d74621a5-7809-410a-8e66-ce458116168f.png)
