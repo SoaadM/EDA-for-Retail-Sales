@@ -4,7 +4,7 @@ The main goal of this project was to improve the retail sales on superstore and 
 In this work, Exploratory Data Analysis (EDA) will be carried out on a Records of online operated E-commerce services to improve the online store and the workflow in retail sales.
 
 # Design: 
-- This project is one of the T5 Data Science BootCamp requirements. Data provided by the retail store named superstore.
+This project is one of the T5 Data Science BootCamp requirements. Data provided by the retail store named superstore.
 
 
 # Data:
